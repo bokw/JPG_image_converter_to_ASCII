@@ -1,7 +1,14 @@
 # JPG image coverter to ASCII
 
-Output example:
-```markdown
+Simple JPG image to ASCII converter made in Python.
+
+Input:
+
+![](https://raw.githubusercontent.com/bokw/jpg_to_ascii/main/deer.jpg)
+
+Output:
+
+```
 ..........................................................................................
 .............'............................................................................
 ............`"`...................'.......................................................
